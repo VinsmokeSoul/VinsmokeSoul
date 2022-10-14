@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 📝 I Like to make [Digital art, traditional sometimes too](Digital art, traditional sometimes too)
+- 📝 I Like to make Digital art, traditional sometimes too
 
 - 💬 Ask me about **Nothing**
 
